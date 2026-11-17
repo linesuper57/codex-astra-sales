@@ -1225,6 +1225,10 @@ const HTML = `<!DOCTYPE html>
           <span>Get Instant Access Now — 15 USDT</span>
         </a>
 
+        <div style="margin-top: 14px; margin-bottom: 8px; font-size: 13px; color: #94A3B8; text-align: center;">
+          💬 You are free to reach admin for any question or a free trial: <a href="tg://resolve?domain=mrmasterlk&text=Hello%20admin%20I%20have%20a%20question%20or%20would%20like%20a%20free%20trial" style="color: #38BDF8; font-weight: 700; text-decoration: none;">@mrmasterlk</a>
+        </div>
+
         <div class="deal-guarantee-row">
           <div class="deal-guarantee-item">
             <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
@@ -1456,6 +1460,28 @@ const HTML = `<!DOCTYPE html>
         </div>
         <p class="faq-a">Instant! After completing your 15 USDT payment, your API key is delivered straight to your Telegram so you can get started right away.</p>
       </div>
+
+      <div class="faq-card">
+        <div class="faq-q">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10"></circle><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>
+          <span>Can I get a free trial or ask questions?</span>
+        </div>
+        <p class="faq-a">Yes! You are completely free to reach admin for any question or a free trial. Send a quick message to <a href="tg://resolve?domain=mrmasterlk&text=Hello%20admin%20I%20have%20a%20question%20or%20would%20like%20a%20free%20trial" style="color: #38BDF8; font-weight: 700; text-decoration: none;">@mrmasterlk</a> on Telegram anytime.</p>
+      </div>
+    </div>
+
+    <!-- Free Trial & Admin Contact Callout Banner -->
+    <div class="setup-callout" style="margin-top: 50px;">
+      <div class="setup-callout-text">
+        <h3>Have Questions or Want a Free Trial?</h3>
+        <p>You are free to reach admin for any question or a free trial before purchasing. Contact directly on Telegram for instant response!</p>
+      </div>
+      <a href="tg://resolve?domain=mrmasterlk&text=Hello%20admin%20I%20have%20a%20question%20or%20would%20like%20a%20free%20trial" class="setup-callout-btn" style="border-color: rgba(56, 189, 248, 0.4); background: #1B2029;">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"/>
+        </svg>
+        <span>Contact Admin @mrmasterlk</span>
+      </a>
     </div>
 
   </div>
