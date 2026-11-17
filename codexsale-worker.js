@@ -1125,13 +1125,12 @@ const HTML = `<!DOCTYPE html>
         <a href="#features" class="nav-link">Features</a>
         <a href="#pricing" class="nav-link">Pricing</a>
         <a href="#comparison" class="nav-link">Comparison</a>
-        <a href="https://codexsetup.mrmasterlk.shop" target="_blank" class="nav-link">Setup Guide</a>
         <a href="https://mrmasterlk.shop" target="_blank" class="nav-link">Store</a>
       </div>
 
       <!-- Right CTA -->
       <div>
-        <a href="https://t.me/mrmasterlk?text=Hello%20I%20want%20to%20buy%20Unlimited%20Codex%20GPT-6%20Astra%20for%2015%20USDT" target="_blank" class="nav-cta-btn">
+        <a href="tg://resolve?domain=mrmasterlk&text=Hello%20I%20want%20to%20buy%20Unlimited%20Codex%20GPT-6%20Astra%20for%2015%20USDT" class="nav-cta-btn">
           <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor">
             <path d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"/>
           </svg>
@@ -1219,7 +1218,7 @@ const HTML = `<!DOCTYPE html>
           One-time payment &bull; Instant key activation &bull; Zero rate limits
         </p>
 
-        <a href="https://t.me/mrmasterlk?text=Hello%20I%20want%20to%20buy%20Unlimited%20Codex%20GPT-6%20Astra%20for%2015%20USDT" target="_blank" class="cta-button-large">
+        <a href="tg://resolve?domain=mrmasterlk&text=Hello%20I%20want%20to%20buy%20Unlimited%20Codex%20GPT-6%20Astra%20for%2015%20USDT" class="cta-button-large">
           <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
             <path d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"/>
           </svg>
@@ -1352,7 +1351,7 @@ const HTML = `<!DOCTYPE html>
           <div class="flow-step-num">01</div>
           <h4 class="flow-title">Send $15 USDT via Binance Pay</h4>
           <p class="flow-desc">
-            Send <strong>$15.00 USDT</strong> to Binance ID <code>1268420191</code> and message <a href="https://t.me/mrmasterlk" target="_blank" style="color: #38BDF8; font-weight: 700; text-decoration: none;">@mrmasterlk</a> on Telegram.
+            Send <strong>$15.00 USDT</strong> to Binance ID <code>1268420191</code> and message <a href="tg://resolve?domain=mrmasterlk" style="color: #38BDF8; font-weight: 700; text-decoration: none;">@mrmasterlk</a> on Telegram.
           </p>
         </div>
 
@@ -1408,9 +1407,9 @@ const HTML = `<!DOCTYPE html>
 
       <div class="binance-pay-footer">
         <div class="pay-footer-note">
-          Once sent, message <a href="https://t.me/mrmasterlk?text=Hello%20I%20have%20sent%2015%20USDT%20via%20Binance%20Pay%20(ID:%201268420191)" target="_blank">@mrmasterlk</a> on Telegram with your payment confirmation to receive your unlimited API key immediately!
+          Once sent, message <a href="tg://resolve?domain=mrmasterlk&text=Hello%20I%20have%20sent%2015%20USDT%20via%20Binance%20Pay%20(ID:%201268420191)">@mrmasterlk</a> on Telegram with your payment confirmation to receive your unlimited API key immediately!
         </div>
-        <a href="https://t.me/mrmasterlk?text=Hello%20I%20have%20sent%2015%20USDT%20via%20Binance%20Pay%20(ID:%201268420191)" target="_blank" class="binance-notify-btn">
+        <a href="tg://resolve?domain=mrmasterlk&text=Hello%20I%20have%20sent%2015%20USDT%20via%20Binance%20Pay%20(ID:%201268420191)" class="binance-notify-btn">
           <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
             <path d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"/>
           </svg>
@@ -1471,8 +1470,7 @@ const HTML = `<!DOCTYPE html>
 
       <div class="footer-links">
         <a href="https://mrmasterlk.shop" target="_blank">Store</a>
-        <a href="https://codexsetup.mrmasterlk.shop" target="_blank">Setup Guide</a>
-        <a href="https://t.me/mrmasterlk" target="_blank" class="tg-pill-btn">
+        <a href="tg://resolve?domain=mrmasterlk" class="tg-pill-btn">
           <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor">
             <path d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"/>
           </svg>
